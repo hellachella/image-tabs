@@ -17,3 +17,10 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.circle-1{
+ display: inline-block;
+ padding: 5px;
+ border: 5px solid grey;
+ border-radius: 100%;
+}
