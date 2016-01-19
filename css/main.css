@@ -19,45 +19,44 @@ html {
 }
 
 img {
-	width: 100%;
+ width: 100%;
 }
 
 .circle-1 {
-	 display: inline-block;
-	 padding: 5px;
-	 border: 4px solid grey;
-	 border-radius: 100%;
+  display: inline-block;
+  padding: 5px;
+  border: 4px solid grey;
+  border-radius: 100%;
 
-	 transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
 }
 
 .circle-1:hover {
-	background: grey;
+  background: grey;
 }
 
 .circlehome {
-	width: 20%;
-	margin: 0 auto;
+  width: 20%;
+  margin: 0 auto;
 padding: .5em;
 }
 
 .circlehouse {
 
-	text-align: center;
-	text-decoration: none;
-	list-style-type: none;
-	display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
 }
 
 .circlehouse li {
-	display: inline;
+  display: inline;
 }
 
-
 .argyle {
-	display: none;
+  display: none;
 }
 
 .argyle:target {
-	display: block;
+  display: block;
 }
