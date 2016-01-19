@@ -42,6 +42,22 @@ padding: .5em;
 }
 
 .circlehouse{
-	margin: 0 auto;
+
 	text-align: center;
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+}
+
+.circlehouse li {
+	display: inline;
+}
+
+
+.argyle {
+	display: none;
+}
+
+.argyle:target {
+	display: block;
 }
