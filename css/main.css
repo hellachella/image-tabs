@@ -23,4 +23,10 @@ html {
  padding: 5px;
  border: 5px solid grey;
  border-radius: 100%;
+
+ transition: all 200ms ease-in-out;
+}
+
+.circle-1:hover {
+	background: grey;
 }
